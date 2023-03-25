@@ -30,6 +30,7 @@ To set your invitations:
 1. Go to **Engagements > Settings > Program > Invitations**.
 2. Enter the number of reports you’d like to receive every 30 days in the **Report volume** field. HackerOne recommends starting out by setting a target of receiving 5 valid reports every 30 days.
      * The report volume is measured by the amount of valid reports submitted in the past 30 days. Valid reports include reports that have been marked by you as <i>Triaged</i> or <i>Resolved</i>. Reports that are left in <i>New</i> or marked to any other state won't count toward this goal. Learn more about [report states](/organizations/report-states.html).
+   
 3. Click **Save**.
 
 ### Manually Inviting Hackers
@@ -62,3 +63,4 @@ You can keep track of your invitations and which hackers have been invited to yo
   * Program Reputation
   * Impact
 ![invitation download](./images/invitation-csv-download.png)
+  * h1
